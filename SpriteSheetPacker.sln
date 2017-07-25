@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPacker", "SpriteSheetPacker\SpriteSheetPacker.csproj", "{43886759-9276-4097-8892-2D33AB56D6E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPacker.XnaExporters", "SpriteSheetPacker.XnaExporters\SpriteSheetPacker.XnaExporters.csproj", "{CDC8B701-36E9-40DF-A21A-593AD4B90F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sspack", "sspack\sspack.csproj", "{1AC0A15F-98D2-477D-A620-A8F7B79935F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{43886759-9276-4097-8892-2D33AB56D6E6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CDC8B701-36E9-40DF-A21A-593AD4B90F31}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1AC0A15F-98D2-477D-A620-A8F7B79935F4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
