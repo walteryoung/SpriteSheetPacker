@@ -30,8 +30,6 @@ Power of two and square:
 
 ![](https://github.com/nickgravelyn/spritesheetpacker/blob/master/images/Sheet4.png)
 
-Compiled binaries can be found in the Downloads section and the full source code is available in the Source Code section.
-
 For an example of parsing the text output with XNA Game Studio, see Using Sprite Sheet Packer with XNA GS.
 
 All code was written by Nick Gravelyn except the code for computing the efficient placement of the rectangles which was taken from the [Nuclex Framework](http://nuclexframework.codeplex.com/).
