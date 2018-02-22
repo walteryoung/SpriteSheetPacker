@@ -27,15 +27,13 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Drawing;
 using System.IO;
 using System.Threading;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
 
 namespace SpriteSheetPacker
 {
-	internal partial class SpriteSheetPackerForm : Form
+    internal partial class SpriteSheetPackerForm : Form
 	{
 		private static readonly Stopwatch stopWatch = new Stopwatch();
 

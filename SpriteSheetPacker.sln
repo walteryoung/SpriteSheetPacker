@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPacker", "SpriteSheetPacker\SpriteSheetPacker.csproj", "{43886759-9276-4097-8892-2D33AB56D6E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPacker.XnaExporters", "SpriteSheetPacker.XnaExporters\SpriteSheetPacker.XnaExporters.csproj", "{CDC8B701-36E9-40DF-A21A-593AD4B90F31}"
@@ -45,5 +47,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {CF8F3B69-E4E5-4FA7-A80E-B742D2AAB962}
 	EndGlobalSection
 EndGlobal

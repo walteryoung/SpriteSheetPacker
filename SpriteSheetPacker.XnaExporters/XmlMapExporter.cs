@@ -30,9 +30,9 @@ using System.IO;
 
 namespace SpriteSheetPacker.XnaExporters
 {
-	// writes out an XML file ready to be put into a XNA Content project and get compiled as content.
-	// this file can be loaded using Content.Load<Dictionary<string, Rectangle>> from inside the game.
-	public class XmlMapExporter : sspack.IMapExporter
+    // writes out an XML file ready to be put into a XNA Content project and get compiled as content.
+    // this file can be loaded using Content.Load<Dictionary<string, Rectangle>> from inside the game.
+    public class XmlMapExporter : sspack.IMapExporter
 	{
 		public string MapExtension
 		{

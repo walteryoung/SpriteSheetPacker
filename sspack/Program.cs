@@ -28,12 +28,10 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
-using System.Text.RegularExpressions;
-using System.Diagnostics;
 
 namespace sspack
 {
-	public enum FailCode
+    public enum FailCode
 	{
 		FailedParsingArguments = 1,
 		ImageExporter,
